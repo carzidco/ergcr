@@ -1,2 +1,1 @@
 # ergcr
-erg cr repo
