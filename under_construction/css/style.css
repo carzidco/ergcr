@@ -22,7 +22,7 @@ nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
 body{
-	background: url(../images/bg_erg.jpg) no-repeat #E7E7E7;
+	background: url(../images/bg_erg.png) no-repeat #E7E7E7;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -42,7 +42,7 @@ body{
 	background: -moz-linear-gradient(top, rgba(255, 255, 255, .15), rgba(0, 0, 0, .25)), -moz-linear-gradient(left top, rgba(255, 255, 255, 0), rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
 	background: linear-gradient(top, rgba(255, 255, 255, .15), rgba(0, 0, 0, .25)), linear-gradient(left top, rgba(255, 255, 255, 0), rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
 	padding: 4em;
-	margin-top: 25em;
+	margin-top: 20em;
 }
 .content{
 	text-align:center;
